@@ -1,0 +1,4 @@
+baseURL = 'http://www.leilafalahr.github.io/practica'
+languageCode = 'en-us'
+title = 'DAW 2º'
+theme = "docsy"
